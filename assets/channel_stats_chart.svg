@@ -71,16 +71,16 @@
         </g>
         
         <g>
-            <rect x="205.71428571428572" y="60.0" width="43.57142857142857" height="280.0"
+            <rect x="205.71428571428572" y="200.0" width="43.57142857142857" height="140.0"
                   class="bar"/>
             <text x="230.0" y="380" 
                   transform="rotate(45, 230.0, 380)"
                   text-anchor="start" class="tick-label">
                 configV2rayForFree
             </text>
-            <text x="230.0" y="55.0" 
+            <text x="230.0" y="195.0" 
                   text-anchor="middle" class="tick-label">
-                100.0%
+                50.0%
             </text>
         </g>
         
@@ -127,16 +127,16 @@
         </g>
         
         <g>
-            <rect x="399.99999999999994" y="60.0" width="43.57142857142857" height="280.0"
+            <rect x="399.99999999999994" y="200.0" width="43.57142857142857" height="140.0"
                   class="bar"/>
             <text x="424.2857142857142" y="380" 
                   transform="rotate(45, 424.2857142857142, 380)"
                   text-anchor="start" class="tick-label">
                 PrivateVPNs
             </text>
-            <text x="424.2857142857142" y="55.0" 
+            <text x="424.2857142857142" y="195.0" 
                   text-anchor="middle" class="tick-label">
-                100.0%
+                50.0%
             </text>
         </g>
         
@@ -225,7 +225,7 @@
         </g>
         
         <text x="740" y="390" text-anchor="end" class="timestamp">
-            Last updated: 2025-01-02T10:18:48.577013
+            Last updated: 2025-01-02T11:15:12.735966
         </text>
     </svg>
     
