@@ -57,16 +57,16 @@
         </g>
         
         <g>
-            <rect x="157.14285714285714" y="60.0" width="43.57142857142857" height="280.0"
+            <rect x="157.14285714285714" y="200.0" width="43.57142857142857" height="140.0"
                   class="bar"/>
             <text x="181.42857142857142" y="380" 
                   transform="rotate(45, 181.42857142857142, 380)"
                   text-anchor="start" class="tick-label">
                 ZibaNabz
             </text>
-            <text x="181.42857142857142" y="55.0" 
+            <text x="181.42857142857142" y="195.0" 
                   text-anchor="middle" class="tick-label">
-                100.0%
+                50.0%
             </text>
         </g>
         
@@ -225,7 +225,7 @@
         </g>
         
         <text x="740" y="390" text-anchor="end" class="timestamp">
-            Last updated: 2025-01-03T23:17:18.563680
+            Last updated: 2025-01-04T01:14:58.662447
         </text>
     </svg>
     
