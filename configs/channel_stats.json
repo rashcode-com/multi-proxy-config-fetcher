@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-06T23:15:37.484825",
+  "timestamp": "2025-01-07T01:14:58.381749",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -8,11 +8,11 @@
         "total_configs": 20,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.52,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.93,
-        "last_success": "2025-01-06T23:15:25.232908"
+        "overall_score": 91.71,
+        "last_success": "2025-01-07T01:14:45.872137"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 18,
-        "valid_configs": 11,
-        "unique_configs": 11,
-        "avg_response_time": 0.35,
+        "valid_configs": 10,
+        "unique_configs": 10,
+        "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.75,
-        "last_success": "2025-01-06T23:15:37.013486"
+        "overall_score": 88.29,
+        "last_success": "2025-01-07T01:14:57.802282"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.35,
+        "avg_response_time": 0.46,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.54,
-        "last_success": "2025-01-06T23:15:37.387637"
+        "overall_score": 96.37,
+        "last_success": "2025-01-07T01:14:58.284485"
       }
     },
     {
@@ -62,13 +62,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 15,
-        "unique_configs": 15,
+        "valid_configs": 14,
+        "unique_configs": 14,
         "avg_response_time": 0.09,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.61,
-        "last_success": "2025-01-06T23:15:37.483071"
+        "overall_score": 92.36,
+        "last_success": "2025-01-07T01:14:58.380174"
       }
     }
   ]
