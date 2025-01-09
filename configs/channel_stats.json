@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-01-09T20:17:41.285232",
+  "timestamp": "2025-01-09T21:15:28.381546",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 20,
-        "valid_configs": 17,
-        "unique_configs": 17,
-        "avg_response_time": 0.47,
+        "total_configs": 39,
+        "valid_configs": 29,
+        "unique_configs": 29,
+        "avg_response_time": 0.42,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.55,
-        "last_success": "2025-01-09T20:17:28.684075"
+        "overall_score": 92.96,
+        "last_success": "2025-01-09T21:15:05.856167"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 18,
         "valid_configs": 12,
         "unique_configs": 12,
-        "avg_response_time": 0.39,
+        "avg_response_time": 0.42,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.09,
-        "last_success": "2025-01-09T20:17:40.709731"
+        "overall_score": 91.04,
+        "last_success": "2025-01-09T21:15:17.748998"
       }
     },
     {
@@ -50,25 +50,25 @@
         "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.45,
+        "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.39,
-        "last_success": "2025-01-09T20:17:41.182540"
+        "overall_score": 96.46,
+        "last_success": "2025-01-09T21:15:18.176378"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub",
-      "enabled": true,
+      "enabled": false,
       "metrics": {
-        "total_configs": 20,
-        "valid_configs": 14,
-        "unique_configs": 14,
-        "avg_response_time": 0.1,
-        "success_count": 1,
-        "fail_count": 0,
-        "overall_score": 92.35,
-        "last_success": "2025-01-09T20:17:41.283808"
+        "total_configs": 60,
+        "valid_configs": 0,
+        "unique_configs": 0,
+        "avg_response_time": 0,
+        "success_count": 0,
+        "fail_count": 1,
+        "overall_score": 15.0,
+        "last_success": null
       }
     }
   ]
