@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-01-20T21:14:15.332525",
+  "timestamp": "2025-01-20T22:14:31.328701",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 20,
-        "valid_configs": 13,
-        "unique_configs": 13,
-        "avg_response_time": 0.61,
+        "total_configs": 30,
+        "valid_configs": 23,
+        "unique_configs": 22,
+        "avg_response_time": 0.55,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.34,
-        "last_success": "2025-01-20T21:14:03.025969"
+        "overall_score": 92.26,
+        "last_success": "2025-01-20T22:14:13.732931"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 18,
         "valid_configs": 12,
         "unique_configs": 12,
-        "avg_response_time": 0.36,
+        "avg_response_time": 5.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.13,
-        "last_success": "2025-01-20T21:14:14.926579"
+        "overall_score": 83.65,
+        "last_success": "2025-01-20T22:14:30.728249"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.34,
+        "avg_response_time": 0.52,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.23,
-        "last_success": "2025-01-20T21:14:15.292792"
+        "overall_score": 93.96,
+        "last_success": "2025-01-20T22:14:31.270428"
       }
     },
     {
@@ -62,13 +62,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 13,
-        "unique_configs": 13,
-        "avg_response_time": 0.04,
+        "valid_configs": 8,
+        "unique_configs": 8,
+        "avg_response_time": 0.06,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.19,
-        "last_success": "2025-01-20T21:14:15.331040"
+        "overall_score": 84.92,
+        "last_success": "2025-01-20T22:14:31.327323"
       }
     }
   ]
